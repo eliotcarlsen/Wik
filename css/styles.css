@@ -1,0 +1,37 @@
+.header {
+  text-align: center;
+  width: 45%;
+}
+.pull-right {
+
+  width: 20%;
+  margin-top:-100px;
+}
+
+img {
+  width: 120px;
+  height: 135px;
+}
+
+.pull-left{
+  width: 10%;
+  margin-top: -250px;
+
+}
+
+.pull-down {
+  margin-top: 100px;
+}
+
+.pull-left p,ul {
+  text-align: center;
+}
+
+#row {
+  background-color: blue;
+
+}
+
+#row1 {
+  width: 80%;
+}
